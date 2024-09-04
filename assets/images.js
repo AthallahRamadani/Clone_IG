@@ -1,5 +1,5 @@
 const Images = {
-  icon: require("./icon.png"),
+  facebookMessenger: require("./facebook-messenger.png"),
 };
 
 export default Images;
